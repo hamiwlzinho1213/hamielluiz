@@ -1,8 +1,9 @@
-@import url("style/header.css")
+@import url("style/header.css");
 
 :root{
     --cor-de-fundo: #EBECEE;
-    --branco: white;
+    --branco:var(--branco);
+    
  }
  
  body {
